@@ -1,0 +1,36 @@
+nome: "Matheus"
+idade: 30
+
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_aspas: Digite um texto aqui
+texto: "Este também é um texto válido para o YAML"
+
+nulo: ~
+nulo_dois: null
+
+verdadeiro: True
+verdadeiro_dois: on
+
+falso: False
+falso_dois: off
+
+lista: [1, 2, 3, 4, 5,]
+lista_dois:
+  - "teste"
+  - 10
+  - 3
+  - outro teste
+  - True
+
+objeto: {a: 1, b: 2, c: 3}
+objeto_dois:
+  a: 1
+  b: 2
+  c: 3
+  d: 4
